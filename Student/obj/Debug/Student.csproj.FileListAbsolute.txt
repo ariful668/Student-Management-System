@@ -1,0 +1,10 @@
+C:\Users\arifu\source\repos\Student\Student\bin\Debug\Student.exe.config
+C:\Users\arifu\source\repos\Student\Student\bin\Debug\Student.exe
+C:\Users\arifu\source\repos\Student\Student\bin\Debug\Student.pdb
+C:\Users\arifu\source\repos\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\Users\arifu\source\repos\Student\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\arifu\source\repos\Student\Student\obj\Debug\Student.Student.resources
+C:\Users\arifu\source\repos\Student\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\arifu\source\repos\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\arifu\source\repos\Student\Student\obj\Debug\Student.exe
+C:\Users\arifu\source\repos\Student\Student\obj\Debug\Student.pdb
